@@ -1,4 +1,4 @@
-# Olá mundo !
+# Olá, mundo ! 🗺️ 🧠
 ---
 #### Aprendendo Git e GitHub
  
@@ -6,6 +6,6 @@
  
  - [X] Essa eu adicionei diretamente no github
  
- #### Cadê meu linkedln ?? 
+ #### Cadê meu linkedln e meu blogger ?? 
  
 > [Karoline Nunes](https://www.linkedin.com/in/karoline-batalha-597a491ab/)
