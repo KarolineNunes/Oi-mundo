@@ -1,6 +1,11 @@
-# Olá mundo!
- Aprendendo Git e GitHub
+# Olá mundo !
+---
+#### Aprendendo Git e GitHub
  
- Repositorio criado na aulas gratuitas de git e git github
+ - [X] Repositorio criado na aulas gratuitas de git e git github
  
- Essa eu adicionei diretamente no github ...
+ - [X] Essa eu adicionei diretamente no github
+ 
+ #### Cadê meu linkedln ?? 
+ 
+> [Karoline Nunes](https://www.linkedin.com/in/karoline-batalha-597a491ab/)
